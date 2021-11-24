@@ -19,3 +19,8 @@ Python 3.7, PyTorch 1.6
 3. To train on PathQuestions:
 4. Testing the code:
 ```
+
+## References
+1.	Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings (ACL 2020). 
+2.	Complex Embeddings for Simple Link Prediction (ICML 2016). 
+3.	An Interpretable Reasoning Network for Multi-Relation Question Answering (COLING 2018)
