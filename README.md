@@ -12,9 +12,7 @@ Python 3.7, PyTorch 1.6
 
 ### Set data file paths and folder 
 
-1. 
-
-For ```main_train_vocab.py```, provide the following paths in line 124-128.
+1. For ```main_train_vocab.py```, provide the following paths in line 124-128.
 
 ```
 datasetName = "MetaQA"			#dataset folder name
@@ -23,18 +21,17 @@ valid_data_path = "./Data/MetaQA/1-hop/vanilla/qa_dev.txt"		# validation QA pair
 kbPath ="./Data/MetaQA/kb.txt"									# KG path
 ```
 
-For ```main_train_roberta.py```, provide the following paths in line 166-170.
+For ```main_train_roberta.py```, provide the following paths in line 166-171.
 
 ```
 datasetName = "MetaQA"			#dataset folder name
 data_path = "./Data/MetaQA/1-hop/vanilla/qa_train.txt"			# training QA pairs path
 valid_data_path = "./Data/MetaQA/1-hop/vanilla/qa_dev.txt"		# validation QA pairs path
+test_data_path = "./Data/MetaQA/1-hop/vanilla/qa_test.txt"		# test QA pairs path (only to store RoBERTa embeddings beforehand)
 kbPath ="./Data/MetaQA/kb.txt"									# KG path
 ```
 
-2. 
-
-For ```main_test_vocab.py```, provide the following paths in line 129-132.
+2. For ```main_test_vocab.py```, provide the following paths in line 129-132.
 
 ```
 datasetName = "MetaQA"			#dataset folder name

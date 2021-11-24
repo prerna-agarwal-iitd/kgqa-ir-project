@@ -167,6 +167,7 @@ datasetName = "PQ-2"
 embedding_folder ="./Models/"+datasetName+"/KGEmbed/"
 data_path = "./Data/PQ-2/train_q.txt"
 valid_data_path = "./Data/PQ-2/val_q.txt"
+test_data_path = "./Data/PQ-2/test_q.txt"
 kbPath ="./Data/PQ-2/full_kb.txt"
 roberta_word_embbeding_exist = True
 model_store_path = './Models/'+datasetName+'/checkpoints/'
