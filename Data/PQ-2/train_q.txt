@@ -1,0 +1,1338 @@
+what is the nation of [frederica_of_mecklenburg-strelitz] couple	united_kingdom
+the nation of [frederica_of_mecklenburg-strelitz] couple	united_kingdom
+the parent of [anna_of_holstein-gottorp] son	enno_iii_count_of_ostfriesland
+what gender is [yixin_prince_gong] father	male
+the gender of [yixin_prince_gong] father	male
+what is the gender of father of [yixin_prince_gong]	male
+the sex of parent of [claudius]	male
+what is the nationality of [claudius] parents	roman_empire
+what is the nationality of parents of [claudius]	roman_empire
+the sex of [claudius] husband	female
+the sex of husband of [claudius]	female
+is [claudius] husband a man or a woman	female
+what is the child of parent of [shah_shuja]	shah_shuja
+what is the child of [grand_duke_george_mikhailovich_of_russia] mom	grand_duke_alexei_mikhailovich_of_russia
+what is the [tasha_tudor] mom offspring	tasha_tudor
+who is the offspring of [tasha_tudor] mom	tasha_tudor
+what is the name of the offspring of [tasha_tudor] mom	tasha_tudor
+where does [tasha_tudor] parent work for	harvard_university
+where does [tasha_tudor] parent work	harvard_university
+what is the [tasha_tudor] parent institution	harvard_university
+what is the [christiane_eberhardine_of_brandenburg_bayreuth] daughter heir	marie_josephe_of_saxony
+what is the heir of [christiane_eberhardine_of_brandenburg_bayreuth] daughter	marie_josephe_of_saxony
+what faith does [christiane_eberhardine_of_brandenburg_bayreuth] son have	catholicism
+what faith is [christiane_eberhardine_of_brandenburg_bayreuth] son	catholicism
+is [charles_lennox_1st_duke_of_richmond] offspring a man or a woman	female
+what is the [charles_lennox_1st_duke_of_richmond] offspring sex	male
+what is the sex of offspring of [charles_lennox_1st_duke_of_richmond]	male
+what is the name of the parents of [charles_lennox_1st_duke_of_richmond] heir	charles_lennox_1st_duke_of_richmond
+what is the parents of [charles_lennox_1st_duke_of_richmond] heir	charles_lennox_1st_duke_of_richmond
+what is the parents of heir of [charles_lennox_1st_duke_of_richmond]	charles_lennox_1st_duke_of_richmond
+the wife of [marjorie_merriweather_post] darling	marjorie_merriweather_post
+what is the [marjorie_merriweather_post] darling wife	marjorie_merriweather_post
+what is the gender of darling of [empress_xiaoquan_cheng]	male
+the gender of [empress_xiaoquan_cheng] darling	male
+what is the [john_i_of_denmark] parent nation	germany
+the nation of [john_i_of_denmark] parent	germany
+what faith does [muhammad_al-mahdi] parent have	shia_islam
+the faith of parent of [muhammad_al-mahdi]	shia_islam
+the nation of mother of [princess_elizabeth_of_england]	kingdom_of_france
+what is the sex of [princess_elizabeth_of_england] dad	female
+the sex of dad of [princess_elizabeth_of_england]	female
+what is the couple of kid of [elena_pavlovna_of_wurttemberg]	adolphe_grand_duke_of_luxembourg
+[elena_pavlovna_of_wurttemberg] kid couple	adolphe_grand_duke_of_luxembourg
+what is the gender of [martha_bulloch] husband	male
+what is the [robert_lowell] couple address	london
+what is the address of [robert_lowell] couple	london
+the sex of offspring of [adelaide_of_lowenstein_wertheim_rosenberg]	female
+what sex is [adelaide_of_lowenstein_wertheim_rosenberg] offspring	female
+[anna_e_roosevelt] parent cause_of_death	tuberculosis
+what is the place_of_birth of mom of [anna_e_roosevelt]	new_york
+[anna_e_roosevelt] mom place_of_birth	new_york
+what is [anna_e_roosevelt] dad working on	social_activist
+the job of dad of [anna_e_roosevelt]	social_activist
+what line of business is [anna_e_roosevelt] dad in	social_activist
+the sex of [augustus_keppel_1st_viscount_keppel] mother	male
+what line of business is [william_talbot] children in	politician
+what is the [william_talbot] children profession	politician
+what does [william_talbot] children do for a living	politician
+the occupation of [william_talbot] daughter	lawyer
+where does [william_talbot] son work for	oriel_college
+where does [william_talbot] son work	oriel_college
+what is the institution of son of [william_talbot]	oriel_college
+what is the nation of [svante_nilsson] child	sweden
+what is the sex of [svante_nilsson] child	male
+what sex is [svante_nilsson] child	male
+the sex of child of [svante_nilsson]	male
+[mary_de_bohun] kid nationality	england
+the nationality of kid of [mary_de_bohun]	england
+what is the [mary_de_bohun] kid nationality	england
+what is [george_tabori] couple ethnicity like	swedish_people
+what is the ethnicity of [george_tabori] couple	swedish_people
+what is [george_tabori] couple ethnicity about	swedish_people
+what is the ethnicity of [george_tabori] darling	swedish_american
+what is the ethnicity of darling of [george_tabori]	swedish_american
+the organization of dad of [john_f_kennedy_jr]	london_school_of_economics
+where does [john_f_kennedy_jr] dad work	london_school_of_economics
+what is the organization of [john_f_kennedy_jr] parent	riverdale_country_school
+the organization of parent of [john_f_kennedy_jr]	riverdale_country_school
+what city did [constantine_viii] offspring die	constantinople
+where does [a_k_faezul_huq] parent come from	bangladesh
+what is the place_of_death of [princess_beatrice_of_the_united_kingdom] kid	lausanne
+the place_of_death of [princess_beatrice_of_the_united_kingdom] kid	lausanne
+where did the kid of [princess_beatrice_of_the_united_kingdom] die	lausanne
+what is the gender of [princess_beatrice_of_the_united_kingdom] children	male
+is [princess_beatrice_of_the_united_kingdom] children a man or a woman	male
+the gender of children of [princess_beatrice_of_the_united_kingdom]	male
+what is the nation of [princess_beatrice_of_the_united_kingdom] son	united_kingdom
+what is the nation of son of [princess_beatrice_of_the_united_kingdom]	united_kingdom
+where does [princess_beatrice_of_the_united_kingdom] son come from	united_kingdom
+where does [marie_francois_sadi_carnot] mother come from	france
+the nationality of [marie_francois_sadi_carnot] mother	france
+[christian_x_of_denmark] kid sex	male
+[marguerite_of_france] mother heir	louis_devreux
+the heir of [marguerite_of_france] mother	louis_devreux
+the mother of parents of [marguerite_of_france]	henry_iii_duke_of_brabant
+which city did [marguerite_of_france] mother born	leuven
+the place_of_birth of [marguerite_of_france] mother	leuven
+who is the daughter of [marguerite_of_france] kid	elizabeth_of_rhuddlan
+who is the granddaughter of [marguerite_of_france]	elizabeth_of_rhuddlan
+[marguerite_of_france] kid daughter	elizabeth_of_rhuddlan
+what is the [marguerite_of_france] children sex	female
+what is the sex of [marguerite_of_france] children	female
+what is the sex of children of [marguerite_of_france]	female
+what is the nationality of children of [marguerite_of_france]	england
+the nationality of [marguerite_of_france] children	england
+where does [marguerite_of_france] children come from	england
+what is the offspring of dad of [clodoald]	clodoald
+who is the offspring of [clodoald] dad	clodoald
+what is the [clodoald] dad offspring	clodoald
+what is the [simeon_uro] parent race	serbs
+the race of parent of [simeon_uro]	serbs
+what is the sex of wife of [mae_west]	male
+the sex of [mae_west] wife	male
+[mae_west] wife sex	male
+what is the nation of husband of [mae_west]	united_states
+what is the [maria_theresa_of_austria] offspring place_of_death	vienna
+[maria_theresa_of_austria] offspring place_of_death	vienna
+the place_of_death of offspring of [maria_theresa_of_austria]	vienna
+the gender of [talitha_getty] other half	male
+what is the [talitha_getty] other half gender	male
+what is the gender of other half of [talitha_getty]	male
+[mutemwiya_wife_of_thutmose_iv] heir sex	male
+what is the cause_of_death of child of [adolf_frederick_of_sweden]	firearm
+how [adolf_frederick_of_sweden] child died	firearm
+[adolf_frederick_of_sweden] child cause_of_death	firearm
+what does [john_a_roebling] daughter do for a living	engineer
+[john_a_roebling] daughter profession	engineer
+what is the profession of daughter of [john_a_roebling]	engineer
+what is the ethnicity of wife of [carlos_thompson]	germans
+[j_presper_eckert] children work	electrical_engineer
+what is the work of [j_presper_eckert] children	electrical_engineer
+the son of [j_presper_eckert] child	j_presper_eckert
+the son of child of [j_presper_eckert]	j_presper_eckert
+who is the grandson of [j_presper_eckert]	j_presper_eckert
+the heir of parent of [catherine_of_braganza]	teodosio_prince_of_brazil
+what is the name of the heir of [catherine_of_braganza] parent	teodosio_prince_of_brazil
+what is the heir of parent of [catherine_of_braganza]	teodosio_prince_of_brazil
+what is [blessed_virgin_mary] kid working on	carpenter
+[grand_duchess_elizabeth_mikhailovna] other half gender	male
+what gender is [grand_duchess_elizabeth_mikhailovna] other half	male
+what is the heir of other half of [henriette_adelaide_of_savoy]	joseph_clemens_of_bavaria
+[mumtaz_mahal] son father	mumtaz_mahal
+what is the father of [mumtaz_mahal] son	mumtaz_mahal
+what is the [mumtaz_mahal] son father	mumtaz_mahal
+what is the [charles_lennox_2nd_duke_of_richmond] mother heir	anne_van_keppel_countess_of_albemarle
+who is the heir of [charles_lennox_2nd_duke_of_richmond] mother	anne_van_keppel_countess_of_albemarle
+who is the kid of [charles_lennox_2nd_duke_of_richmond] father	charles_lennox_2nd_duke_of_richmond
+what is the kid of father of [charles_lennox_2nd_duke_of_richmond]	charles_lennox_2nd_duke_of_richmond
+what is the [vasili_i_of_russia] parents sex	female
+what sex is [vasili_i_of_russia] parents	female
+the sex of [vasili_i_of_russia] parents	female
+what religious belief does [george_darwin] father practice	agnosticism
+what did [george_darwin] father die from	coronary_thrombosis
+what killed the [george_darwin] father	coronary_thrombosis
+what is the [george_darwin] father cause_of_death	coronary_thrombosis
+the educational institution of dad of [george_darwin]	christs_college_cambridge
+what is the [george_darwin] dad educational institution	christs_college_cambridge
+what religion does [george_darwin] father follow	anglicanism
+[george_darwin] parent location	shrewsbury
+what is the [george_darwin] parent location	shrewsbury
+the location of parent of [george_darwin]	shrewsbury
+where does [isabella_of_castile] son come from	spain
+what is the nationality of son of [isabella_of_castile]	spain
+the nationality of son of [isabella_of_castile]	spain
+what is the occupation of father of [edith_craig]	architect
+what is [edith_craig] father	architect
+what caused the [adolf_hitler] other halfdeath	cyanide_poisoning
+what is the cause_of_death of other half of [adolf_hitler]	cyanide_poisoning
+which city did [adolf_hitler] wife born	munich
+the cause_of_death of [adolf_hitler] spouse	suicide
+the offspring of offspring of [grand_duchess_alexandra_petrovna]	princess_nadejda_petrovna_of_russia
+what is the name of the offspring of [grand_duchess_alexandra_petrovna] offspring	princess_nadejda_petrovna_of_russia
+what is the [grand_duchess_alexandra_petrovna] offspring offspring	princess_nadejda_petrovna_of_russia
+the other half of daughter of [grand_duchess_alexandra_petrovna]	anastasia_of_montenegro
+what is the nation of [grand_duchess_alexandra_petrovna] offspring	russia
+which nationality is [grand_duchess_alexandra_petrovna] offspring	russia
+what type of religion is [sarah] couple	judaism
+what is the sex of dad of [constantine_xi]	male
+[constantine_xi] dad sex	male
+what is the [henry_vii_of_england] wife other half	henry_vii_of_england
+the other half of wife of [henry_vii_of_england]	henry_vii_of_england
+the place_of_death of parents of [princess_margaret_of_prussia]	potsdam
+where did [princess_margaret_of_prussia] parents die	potsdam
+the gender of parent of [princess_margaret_of_prussia]	male
+what is the gender of parent of [princess_margaret_of_prussia]	male
+the gender of [princess_margaret_of_prussia] parent	male
+the son of [princess_margaret_of_prussia] parent	princess_charlotte_of_prussia
+what is the [princess_margaret_of_prussia] parent son	princess_charlotte_of_prussia
+what is the name of the son of [princess_margaret_of_prussia] parent	princess_charlotte_of_prussia
+[virginia_heinlein] husband cause_of_death	emphysema
+what is the [virginia_heinlein] husband cause_of_death	emphysema
+where does [virginia_heinlein] spouse work	united_states_naval_academy
+what gender is [charles_i_of_england] heir	female
+is [charles_i_of_england] heir a man or a woman	female
+[charles_i_of_england] heir gender	female
+what is the dad of [charles_i_of_england] children	henrietta_maria_of_france
+what is the name of the dad of [charles_i_of_england] children	henrietta_maria_of_france
+[charles_i_of_england] children dad	henrietta_maria_of_france
+the organization of spouse of [colleen_dewhurst]	university_of_missouri_columbia
+what is the organization of [colleen_dewhurst] spouse	university_of_missouri_columbia
+the sex of darling of [colleen_dewhurst]	male
+what is the sex of [colleen_dewhurst] darling	male
+[arthur_de_wint_foote] couple work	writer
+what does [arthur_de_wint_foote] couple do for a living	writer
+what is the [helena_of_moscow] spouse gender	male
+what sex is [lothair_of_france] dad	female
+the sex of dad of [lothair_of_france]	female
+the place_of_death of daughter of [henry_stanton]	greenwich_connecticut
+where did [henry_stanton] daughter die	greenwich_connecticut
+where did the daughter of [henry_stanton] die	greenwich_connecticut
+what is the name of the darling of [arcadius] darling	arcadius
+the darling of [arcadius] darling	arcadius
+who is the darling of [arcadius] darling	arcadius
+the dad of children of [charles_spurgeon]	charles_spurgeon
+what is the name of the dad of [charles_spurgeon] children	charles_spurgeon
+what is the dad of children of [charles_spurgeon]	charles_spurgeon
+what is the occupation of heir of [baruch_leib_rosowsky]	hazzan
+the occupation of heir of [baruch_leib_rosowsky]	hazzan
+is [mieszko_iv_tanglefoot] mom a man or a woman	male
+the gender of mom of [mieszko_iv_tanglefoot]	male
+is [ludwig_ii_of_bavaria] parents a man or a woman	male
+where does [lady_sarah_wilson] mom come from	united_kingdom
+the nation of mom of [lady_sarah_wilson]	united_kingdom
+what is the name of the offspring of [lady_sarah_wilson] parent	lord_randolph_churchill
+the offspring of parent of [lady_sarah_wilson]	lord_randolph_churchill
+what is the gender of mom of [catharina_of_sweden]	male
+the gender of [catharina_of_sweden] mom	male
+[catharina_of_sweden] mom gender	male
+what is [alexandra_fyodorovna_of_hesse] daughter working on	grand_duchess
+[alexandra_fyodorovna_of_hesse] daughter work	grand_duchess
+what does [alexandra_fyodorovna_of_hesse] daughter do	grand_duchess
+what is the darling of [robert_e_lee] husband	robert_e_lee
+what is the darling of husband of [robert_e_lee]	robert_e_lee
+what is the place_of_death of [audrey_hepburn] husband	santa_barbara
+the place_of_death of [audrey_hepburn] husband	santa_barbara
+what is the sex of darling of [audrey_hepburn]	male
+what sex is [audrey_hepburn] darling	male
+the gender of daughter of [hortense_de_beauharnais]	male
+the gender of [hortense_de_beauharnais] daughter	male
+[hortense_de_beauharnais] daughter gender	male
+what is the nationality of [hortense_de_beauharnais] kid	france
+what is the gender of offspring of [gustavus_adolphus_of_sweden]	female
+what is the [gustavus_adolphus_of_sweden] offspring gender	female
+what is the [gustavus_adolphus_of_sweden] child dad	maria_eleonora_of_brandenburg
+what is the dad of [gustavus_adolphus_of_sweden] child	maria_eleonora_of_brandenburg
+what is the dad of child of [gustavus_adolphus_of_sweden]	maria_eleonora_of_brandenburg
+what is the name of the wife of [bobby_troup] couple	bobby_troup
+[bobby_troup] couple wife	bobby_troup
+what is the wife of couple of [bobby_troup]	bobby_troup
+what is the [david_carradine] parent nation	united_states
+what does [david_carradine] parents do	actor
+what is the [frederick_edward_guest] dad gender	male
+what is the gender of dad of [frederick_edward_guest]	male
+what gender is [frederick_edward_guest] dad	male
+is [alexandre_vicomte_de_beauharnais] kid a man or a woman	female
+what is the [alexandre_vicomte_de_beauharnais] kid gender	female
+what is the name of the grandson of [alexandre_vicomte_de_beauharnais]	napoleon_iii_of_france
+what is the son of [alexandre_vicomte_de_beauharnais] kid	napoleon_iii_of_france
+where did [anne_marie_martinozzi] daughter die	fontainebleau
+the place_of_death of [anne_marie_martinozzi] daughter	fontainebleau
+what is the [anne_marie_martinozzi] daughter place_of_death	fontainebleau
+[charles_a_wickliffe] child nationality	united_states
+the nationality of [charles_a_wickliffe] child	united_states
+what is the father of [charles_a_wickliffe] kid	charles_a_wickliffe
+[charles_a_wickliffe] kid father	charles_a_wickliffe
+[samuel_gridley_howe] darling sex	male
+what is the sex of darling of [samuel_gridley_howe]	male
+is [samuel_gridley_howe] darling a man or a woman	male
+the gender of [samuel_gridley_howe] other half	female
+what is the [samuel_gridley_howe] other half gender	female
+what is the gender of offspring of [artavasdes_i_of_armenia]	male
+[artavasdes_i_of_armenia] offspring race	armenians
+what is the race of offspring of [artavasdes_i_of_armenia]	armenians
+what is the race of [artavasdes_i_of_armenia] offspring	armenians
+what is the work of [john_hays_hammond] kid	inventor
+what is [john_hays_hammond] kid working on	inventor
+what does [john_hays_hammond] kid do for a living	inventor
+what is the profession of [louis_the_pious] dad	emperor
+what line of business is [louis_the_pious] dad in	emperor
+what does [louis_the_pious] dad do for a living	emperor
+what is the [grand_duke_konstantin_nikolayevich_of_russia] son mother	alexandra_iosifovna_of_altenburg
+what is the name of the mother of [grand_duke_konstantin_nikolayevich_of_russia] son	alexandra_iosifovna_of_altenburg
+which nationality is [grand_duke_konstantin_nikolayevich_of_russia] son	russia
+the nation of [grand_duke_konstantin_nikolayevich_of_russia] son	russia
+what is the name of the couple of [julie_london] couple	julie_london
+what is the nation of [julie_london] couple	united_states
+the nation of couple of [julie_london]	united_states
+where does [julie_london] husband work for	wharton_school_of_the_university_of_pennsylvania
+the organization of [julie_london] husband	wharton_school_of_the_university_of_pennsylvania
+[julie_london] husband organization	wharton_school_of_the_university_of_pennsylvania
+what is the [rudolf_christian_count_of_ostfriesland] dad place_of_birth	aurich
+what is the nation of [philip_iii_of_navarre] mom	france
+what is the [philip_iii_of_navarre] mom nation	france
+where does [philip_iii_of_navarre] mom come from	france
+the children of daughter of [p_j_kennedy]	rosemary_kennedy
+who is the children of [p_j_kennedy] daughter	rosemary_kennedy
+what is the [p_j_kennedy] child sex	male
+what is the sex of child of [p_j_kennedy]	male
+what is the sex of [p_j_kennedy] child	male
+the sex of heir of [sylvia_likens]	male
+the sex of [sylvia_likens] heir	male
+the job of son of [john_b_kelly_sr]	fashion_model
+what is [john_b_kelly_sr] son working on	fashion_model
+which organization does [john_b_kelly_sr] son work for	american_academy_of_dramatic_arts
+where does [john_b_kelly_sr] son work for	american_academy_of_dramatic_arts
+what is [emperor_temmu] kid working on	writer
+what is the [robert_c_wickliffe] parent nationality	united_states
+what is the son of [robert_c_wickliffe] parent	robert_c_wickliffe
+the son of parent of [robert_c_wickliffe]	robert_c_wickliffe
+what is the occupation of other half of [ekaterina_svanidze]	generalissimo
+what is [ekaterina_svanidze] other half working on	generalissimo
+the gender of couple of [ekaterina_svanidze]	male
+the gender of [ekaterina_svanidze] couple	male
+what gender is [ekaterina_svanidze] couple	male
+where does [victoria_of_the_united_kingdom] child work for	trinity_college_cambridge
+which institution does [victoria_of_the_united_kingdom] child work for	trinity_college_cambridge
+where is [auguste_van_pels] other half staying	lower_saxony
+what is the [auguste_van_pels] other half location	lower_saxony
+what is the location of other half of [auguste_van_pels]	lower_saxony
+where does [pearl_starr] parent come from	united_states
+what is the [pearl_starr] parent nation	united_states
+what is the nation of [pearl_starr] parent	united_states
+the gender of [pearl_starr] mother	female
+is [pearl_starr] mother a man or a woman	female
+what is the gender of [pearl_starr] mother	female
+the nationality of spouse of [peter_sellers]	england
+[edward_ellice_1810] parent nation	united_kingdom
+what is the [louis_ix_of_france] children gender	male
+what is the gender of children of [louis_ix_of_france]	male
+what is the gender of [louis_ix_of_france] children	male
+what is the [louis_ix_of_france] heir religion	catholicism
+what religion is [louis_ix_of_france] heir	catholicism
+what is the religion of heir of [louis_ix_of_france]	catholicism
+the gender of father of [mikolaj_vii_radziwill]	female
+what is the [charles_ferdinand_duc_de_berry] mother religious belief	catholicism
+what religious belief does [charles_ferdinand_duc_de_berry] mother practice	catholicism
+what religious belief does [charles_ferdinand_duc_de_berry] mother have	catholicism
+what gender is [thutmose_iv] parent	male
+the sex of parents of [tyrone_power]	male
+what is [nissanka_wijeyeratne] mother	diplomat
+what is the type of religion of other half of [mariana_victoria_of_spain]	catholicism
+what is the [mariana_victoria_of_spain] other half type of religion	catholicism
+what type of religion is [mariana_victoria_of_spain] other half	catholicism
+[henry_ii_of_england] dad nation	kingdom_of_england
+what is the nation of dad of [henry_ii_of_england]	kingdom_of_england
+what is the wife of dad of [henry_ii_of_england]	henry_v_holy_roman_emperor
+the wife of [henry_ii_of_england] dad	henry_v_holy_roman_emperor
+the wife of dad of [henry_ii_of_england]	henry_v_holy_roman_emperor
+the sex of [grand_duke_peter_nicolaievich_of_russia] husband	female
+what is the sex of husband of [grand_duke_peter_nicolaievich_of_russia]	female
+what sex is [henrietta_anne_stuart] husband	male
+the sex of [henrietta_anne_stuart] husband	male
+[henrietta_anne_stuart] husband sex	male
+what gender is [henrietta_anne_stuart] kid	female
+what is the [henrietta_anne_stuart] kid gender	female
+what is [ernest_hemingway] wife working on	journalist
+what is the [ernest_hemingway] wife work	journalist
+the work of wife of [ernest_hemingway]	journalist
+what sex is [eadgifu_of_england] father	male
+what is the [eadgifu_of_england] father sex	male
+what is [cosima_wagner] offspring working on	conducting
+what does [cosima_wagner] offspring do for a living	conducting
+what is the work of kid of [cosima_wagner]	composer
+[takelot_iii] parent daughter	takelot_iii
+the daughter of [takelot_iii] parent	takelot_iii
+how [louise_juliana_of_nassau] father died	firearm
+what killed the [louise_juliana_of_nassau] father	firearm
+what made the [louise_juliana_of_nassau] fatherdead	firearm
+the cause_of_death of dad of [louise_juliana_of_nassau]	assassination
+what is the cause_of_death of [louise_juliana_of_nassau] dad	assassination
+why [louise_juliana_of_nassau] dad died	assassination
+what is the gender of [louise_juliana_of_nassau] darling	male
+what is the spouse of mom of [henry_i_duke_of_guise]	jacques_de_savoie_2nd_duc_de_nemours
+what is the name of the spouse of [henry_i_duke_of_guise] mom	jacques_de_savoie_2nd_duc_de_nemours
+what is the spouse of [henry_i_duke_of_guise] mom	jacques_de_savoie_2nd_duc_de_nemours
+what is the children of mother of [henry_i_duke_of_guise]	charles_of_lorraine_duke_of_mayenne
+[henry_i_duke_of_guise] mother dad	renee_of_france
+what is the [henry_i_duke_of_guise] mother dad	renee_of_france
+what is the dad of [henry_i_duke_of_guise] mother	renee_of_france
+what is the daughter of [duke_peter_of_oldenburg] daughter	grand_duke_peter_nicolaievich_of_russia
+the daughter of [duke_peter_of_oldenburg] daughter	grand_duke_peter_nicolaievich_of_russia
+what is the child of son of [duke_peter_of_oldenburg]	grand_duke_nicholas_nicolaevich_the_younger
+what is the [duke_peter_of_oldenburg] son child	grand_duke_nicholas_nicolaevich_the_younger
+what did [evelyn_keyes] husband die from	diabetes_mellitus
+[evelyn_keyes] husband cause_of_death	diabetes_mellitus
+what is the [evelyn_keyes] husband cause_of_death	diabetes_mellitus
+what is the [evelyn_keyes] spouse job	composer
+what is [evelyn_keyes] spouse	composer
+what is [evelyn_keyes] spouse working on	composer
+what line of business is [anne_of_denmark] child in	poet
+what is the [anne_of_denmark] child occupation	poet
+the place_of_death of father of [roy_e_disney]	burbank
+where did the father of [roy_e_disney] die	burbank
+the other half of [alexander_darcy] other half	alexander_darcy
+what is the [alexander_darcy] wife profession	actor
+[alexander_darcy] wife profession	actor
+the profession of [alexander_darcy] wife	actor
+what city did [maria_fyodorovna_of_russia] son die	vienna
+what is the place_of_death of son of [maria_fyodorovna_of_russia]	vienna
+what is the sex of offspring of [maria_fyodorovna_of_russia]	female
+the sex of offspring of [maria_fyodorovna_of_russia]	female
+what is the [maria_fyodorovna_of_russia] offspring sex	female
+what is the gender of kid of [sarah_lennox_duchess_of_richmond]	male
+what gender is [sarah_lennox_duchess_of_richmond] kid	male
+what is the [sarah_lennox_duchess_of_richmond] kid gender	male
+[sarah_lennox_duchess_of_richmond] offspring nation	united_kingdom
+what is the nation of [sarah_lennox_duchess_of_richmond] offspring	united_kingdom
+what is the darling of children of [james_ii_of_england]	george_of_denmark
+what is the [james_ii_of_england] children darling	george_of_denmark
+the gender of [anne_of_bohemia] other half	male
+[anne_of_bohemia] other half gender	male
+what is the nation of parent of [ramon_berenguer_i_count_of_barcelona]	spain
+which nationality is [ramon_berenguer_i_count_of_barcelona] parent	spain
+the nation of [ramon_berenguer_i_count_of_barcelona] parent	spain
+what is the [claudine_rhedey_von_kis_rhede] kid gender	male
+what is the gender of kid of [claudine_rhedey_von_kis_rhede]	male
+which nationality is [roy_thomson_1st_baron_thomson_of_fleet] daughter	canada
+the nation of [roy_thomson_1st_baron_thomson_of_fleet] daughter	canada
+what is the [roy_thomson_1st_baron_thomson_of_fleet] daughter nation	canada
+which institution does [roy_thomson_1st_baron_thomson_of_fleet] children work for	upper_canada_college
+where does [roy_thomson_1st_baron_thomson_of_fleet] children work	upper_canada_college
+where does [frederika_of_hanover] parent come from	germany
+what is the [frederika_of_hanover] parent nationality	germany
+what is the nationality of [frederika_of_hanover] parent	germany
+what is the [major_ridge] heir race	native_americans_in_the_united_states
+[major_ridge] heir race	native_americans_in_the_united_states
+the ethnicity of child of [major_ridge]	cherokee
+what is [major_ridge] child ethnicity like	cherokee
+what is the gender of [louis_xvi_of_france] kid	female
+what gender is [louis_xvi_of_france] kid	female
+[louis_xvi_of_france] parents place_of_death	chateau_de_fontainebleau
+what is the place_of_death of [louis_xvi_of_france] parents	chateau_de_fontainebleau
+what is the cause_of_death of father of [louis_xvi_of_france]	tuberculosis
+the daughter of parent of [elisabeth_of_austria_1526]	maria_of_habsburg_archduchess_of_austria
+who is the daughter of [elisabeth_of_austria_1526] parent	maria_of_habsburg_archduchess_of_austria
+what is the nationality of [lew_cody] darling	united_states
+where does [lew_cody] darling come from	united_states
+[lew_cody] couple sex	female
+which nationality is [william_backhouse_astor_jr] children	united_states
+the nation of children of [william_backhouse_astor_jr]	united_states
+the place_of_death of [augustus_ii_the_strong] offspring	avignon
+the place_of_death of offspring of [augustus_ii_the_strong]	avignon
+the organization of [james_a_bayard_jr] father	princeton_university
+what is the [james_a_bayard_jr] father organization	princeton_university
+[prince_alexander_of_hesse_and_by_rhine] children gender	male
+the gender of [prince_alexander_of_hesse_and_by_rhine] children	male
+what faith does [jewna] heir practice	paganism
+what faith does [jewna] heir have	paganism
+what is the faith of [jewna] heir	paganism
+the sex of [jewna] child	male
+is [jewna] child a man or a woman	male
+the sex of child of [jewna]	male
+what is the reason of [doris_dowling] husbanddeath	diabetes_mellitus
+what is the cause_of_death of husband of [doris_dowling]	diabetes_mellitus
+what made the [doris_dowling] husbanddead	diabetes_mellitus
+what does [doris_dowling] other half do	composer
+what is the work of other half of [doris_dowling]	composer
+what is the nation of [sybil_thomas_viscountess_rhondda] husband	wales
+the nationality of [sybil_thomas_viscountess_rhondda] wife	united_kingdom
+who is the child of [prince_feodor_alexandrovich_of_russia] parent	prince_andrei_alexandrovich_of_russia
+[prince_feodor_alexandrovich_of_russia] parent child	prince_andrei_alexandrovich_of_russia
+what gender is [lord_robert_manners] parents	male
+the cause_of_death of [carole_lombard] couple	myocardial_infarction
+why [carole_lombard] couple died	myocardial_infarction
+[prince_louis_ferdinand_of_bavaria] parent sex	female
+what is the [elizabeth_of_york] darling wife	elizabeth_of_york
+what is the wife of darling of [elizabeth_of_york]	elizabeth_of_york
+what is [elizabeth_of_york] other half	monarch
+what does [elizabeth_of_york] other half do for a living	monarch
+what is the work of other half of [elizabeth_of_york]	monarch
+[peter_van_pels] mother location	lower_saxony
+where is [peter_van_pels] mother staying	lower_saxony
+where is [peter_van_pels] mother living	lower_saxony
+what line of business is [ethel_lilian_voynich] parent in	mathematician
+what is [ethel_lilian_voynich] parent working on	mathematician
+what is [skip_caray] parents	sportscaster
+what does [skip_caray] parents do	sportscaster
+what is the profession of [skip_caray] parents	sportscaster
+why [skip_caray] mother died	cardiovascular_disease
+what killed the [skip_caray] mother	cardiovascular_disease
+what did [skip_caray] mother die from	cardiovascular_disease
+what is the [skip_caray] parents address	st_louis_missouri
+what is the address of parents of [skip_caray]	st_louis_missouri
+who is the spouse of [mary_anna_custis_lee] husband	mary_anna_custis_lee
+what is the name of the spouse of [mary_anna_custis_lee] husband	mary_anna_custis_lee
+what is the spouse of [mary_anna_custis_lee] husband	mary_anna_custis_lee
+what is the cause_of_death of [mary_anna_custis_lee] darling	pneumonia
+what is the cause_of_death of darling of [mary_anna_custis_lee]	pneumonia
+[mary_anna_custis_lee] darling cause_of_death	pneumonia
+the sex of [aurangzeb] children	male
+[aurangzeb] children sex	male
+the sex of children of [aurangzeb]	male
+the sex of [chilperic_i] couple	female
+what sex is [chilperic_i] couple	female
+what is the gender of [buster_keaton] parents	male
+what gender is [buster_keaton] parents	male
+the gender of [buster_keaton] parents	male
+what is the work of [buster_keaton] parents	actor
+the location of daughter of [louise_defeo]	new_york_state
+where is [louise_defeo] daughter staying	new_york_state
+the faith of mom of [ferdinand_ii_of_the_two_sicilies]	roman_catholic_church
+where did [francis_i_of_france] son die	paris
+where did the son of [francis_i_of_france] die	paris
+what is the place_of_death of son of [francis_i_of_france]	paris
+the child of [francis_i_of_france] offspring	charles_ix_of_france
+what is the name of the grandchild of [francis_i_of_france]	charles_ix_of_france
+[francis_i_of_france] offspring child	charles_ix_of_france
+what is the [anne_of_cleves] parents child	sybille_of_cleves
+the child of [anne_of_cleves] parents	sybille_of_cleves
+what is the child of parents of [anne_of_cleves]	sybille_of_cleves
+what is the gender of [anne_of_cleves] mother	male
+the gender of mother of [anne_of_cleves]	male
+is [anne_of_cleves] mother a man or a woman	male
+what is the [jenny_longuet] mom heir	jenny_longuet
+what is the heir of mom of [jenny_longuet]	jenny_longuet
+what is the nationality of [margaret_of_artois] spouse	france
+[margaret_of_artois] spouse nationality	france
+the nationality of spouse of [margaret_of_artois]	france
+what is the sex of [postumus_junior] mother	male
+what sex is [postumus_junior] mother	male
+what is the cause_of_death of [postumus_junior] dad	assassination
+what is the name of the mother of [christian_ii_of_denmark] parents	dorothea_of_brandenburg
+who is the grandmother of [christian_ii_of_denmark]	dorothea_of_brandenburg
+what is the mother of parents of [christian_ii_of_denmark]	dorothea_of_brandenburg
+what sex is [chindasuinth] kid	male
+what is the sex of [chindasuinth] kid	male
+the son of father of [maria_antonia_of_portugal]	maria_josepha_of_portugal
+what is the son of [maria_antonia_of_portugal] father	maria_josepha_of_portugal
+what is the sex of [lovisa_of_sweden] darling	male
+what is the gender of parents of [alfonso_iv_of_leon]	male
+what is the [leonard_jerome] child nationality	united_states
+what is the [leonard_jerome] offspring sex	female
+[leonard_jerome] offspring sex	female
+the kid of [qianlong_emperor] parents	qianlong_emperor
+what is the kid of parents of [qianlong_emperor]	qianlong_emperor
+[qianlong_emperor] daughter sex	male
+what is the sex of [qianlong_emperor] daughter	male
+what sex is [qianlong_emperor] daughter	male
+the type of religion of [franz_josef_i_prince_of_liechtenstein] daughter	catholicism
+what type of religion does [franz_josef_i_prince_of_liechtenstein] daughter have	catholicism
+the type of religion of daughter of [franz_josef_i_prince_of_liechtenstein]	catholicism
+what is the type of religion of [alice_betty_stern] heir	jew
+what is the gender of [alice_betty_stern] daughter	male
+the gender of [alice_betty_stern] daughter	male
+what is the ethnicity of [alice_betty_stern] heir	germans
+what is the ethnicity of heir of [alice_betty_stern]	germans
+who is the heir of [jodhabai] child	shah_jahan
+who is the grandheir of [jodhabai]	shah_jahan
+what is the nationality of [ina_claire] wife	united_states
+where does [ina_claire] wife come from	united_states
+the father of [louis_iv_of_france] daughter	gerberga_of_saxony
+what is the father of [louis_iv_of_france] daughter	gerberga_of_saxony
+the sex of mother of [hussein_of_jordan]	male
+what sex is [hussein_of_jordan] mother	male
+what is the sex of mother of [hussein_of_jordan]	male
+is [amun-her-khepeshef] parent a man or a woman	female
+the gender of [amun-her-khepeshef] parent	female
+[amun-her-khepeshef] parent gender	female
+what is the ethnicity of [cleopatra_selene] mom	greeks_in_egypt
+what is the [cleopatra_selene] mom ethnicity	greeks_in_egypt
+[richard_mulligan] darling gender	female
+what is the gender of [richard_mulligan] darling	female
+[richard_mulligan] spouse job	actor
+what is [richard_mulligan] spouse	actor
+what is the job of [richard_mulligan] spouse	actor
+where does [prince_joachim_of_prussia] mom work for	university_of_bonn
+what is the organization of mom of [prince_joachim_of_prussia]	university_of_bonn
+what is the dad of [prince_joachim_of_prussia] parents	frederick_iii_german_emperor
+[prince_joachim_of_prussia] parents dad	frederick_iii_german_emperor
+who is the granddad of [prince_joachim_of_prussia]	frederick_iii_german_emperor
+what did [prince_joachim_of_prussia] father die from	pulmonary_embolism
+the cause_of_death of [james_hepburn_4th_earl_of_bothwell] couple	decapitation
+what is the [james_hepburn_4th_earl_of_bothwell] husband husband	francis_ii_of_france
+what is the husband of [james_hepburn_4th_earl_of_bothwell] husband	francis_ii_of_france
+the sex of wife of [james_hepburn_4th_earl_of_bothwell]	female
+what sex is [james_hepburn_4th_earl_of_bothwell] wife	female
+[james_hepburn_4th_earl_of_bothwell] wife type of religion	catholicism
+what type of religion does [james_hepburn_4th_earl_of_bothwell] wife follow	catholicism
+what gender is [regina_crown_princess_of_austria] mom	male
+the gender of [regina_crown_princess_of_austria] mom	male
+what gender is [anton_philips] kid	male
+[anton_philips] kid gender	male
+what is the [anton_philips] son cause_of_death	accidental_fall
+what is the cause_of_death of son of [anton_philips]	accidental_fall
+the parents of child of [anton_philips]	anton_philips
+the parents of [anton_philips] child	anton_philips
+what is the [anton_philips] child parents	anton_philips
+where does [anton_philips] kid work for	delft_university_of_technology
+the institution of [anton_philips] kid	delft_university_of_technology
+what is the institution of [anton_philips] kid	delft_university_of_technology
+what is the [jeanne_ii_countess_of_burgundy] spouse sex	male
+what is the sex of [jeanne_ii_countess_of_burgundy] spouse	male
+[felipe_prospero_of_habsburg] mom heir	john_of_austria_the_younger
+what is the heir of [felipe_prospero_of_habsburg] mom	john_of_austria_the_younger
+what is the [felipe_prospero_of_habsburg] mom heir	john_of_austria_the_younger
+is [gaius_marius] couple a man or a woman	male
+what is the gender of [gaius_marius] couple	male
+the gender of couple of [gaius_marius]	male
+is [kalama] darling a man or a woman	male
+what is the sex of [kalama] darling	male
+the sex of [kalama] darling	male
+where did [kalama] husband die	honolulu
+the place_of_death of [kalama] husband	honolulu
+what is the occupation of [verina] wife	eastern_roman_emperor
+what is the [verina] wife occupation	eastern_roman_emperor
+[verina] wife gender	male
+the gender of wife of [verina]	male
+is [verina] wife a man or a woman	male
+what is the [henry_cromwell] dad gender	female
+what gender is [henry_cromwell] dad	female
+what is the gender of [henry_cromwell] dad	female
+the mother of [louis_duke_of_nemours] son	louis_duke_of_nemours
+what is the name of the mother of [louis_duke_of_nemours] son	louis_duke_of_nemours
+what is the nation of [louis_duke_of_nemours] offspring	france
+what is the nation of offspring of [louis_duke_of_nemours]	france
+the nation of [louis_duke_of_nemours] offspring	france
+why [john_franklin] couple died	tuberculosis
+the parents of spouse of [juliana_maria_of_brunswick_wolfenbuttel]	sophia_magdalen_of_brandenburg-kulmbach
+who is the parents of [juliana_maria_of_brunswick_wolfenbuttel] spouse	sophia_magdalen_of_brandenburg-kulmbach
+is [samuel_pepys] husband a man or a woman	female
+what made the [srinagarindra] childrendead	firearm
+what is the cause_of_death of [srinagarindra] children	firearm
+[john_elector_of_saxony] daughter location	coburg
+the darling of [henry_viii_of_england] father	elizabeth_of_york
+what does [henry_viii_of_england] father do	monarch
+what is [henry_viii_of_england] father	monarch
+is [michael_i_rangabe] children a man or a woman	male
+what sex is [michael_i_rangabe] children	male
+what is the sex of [michael_i_rangabe] children	male
+what is the nationality of couple of [anne_of_great_britain]	denmark
+[anne_of_great_britain] couple nationality	denmark
+what is the husband of heir of [philip_v_of_spain]	joseph_i_of_portugal
+[philip_v_of_spain] heir husband	joseph_i_of_portugal
+which nationality is [philip_v_of_spain] heir	portugal
+[philip_v_of_spain] heir nationality	portugal
+the nationality of [philip_v_of_spain] heir	portugal
+what is the [john_v_palaiologos] child gender	male
+what is the gender of child of [john_v_palaiologos]	male
+[john_v_palaiologos] child gender	male
+why [justinus_van_nassau] dad died	firearm
+how [justinus_van_nassau] dad died	firearm
+what is the reason of [justinus_van_nassau] daddeath	firearm
+what is the [justinus_van_nassau] dad cause_of_death	assassination
+what made the [justinus_van_nassau] daddead	assassination
+where did [archduchess_maria_beatrix_of_austria_este] offspring die	varese
+what city did [archduchess_maria_beatrix_of_austria_este] offspring die	varese
+is [archduchess_maria_beatrix_of_austria_este] son a man or a woman	male
+what is the hometown of [archduchess_maria_beatrix_of_austria_este] children	ljubljana
+the place_of_birth of [archduchess_maria_beatrix_of_austria_este] children	ljubljana
+where is [casimir_iv_jagiellon] daughter staying	krakow
+where is [casimir_iv_jagiellon] daughter living	krakow
+what is the [casimir_iv_jagiellon] daughter address	krakow
+the gender of [philippine_elisabeth_of_orleans] mother	male
+what is the [philippine_elisabeth_of_orleans] mother gender	male
+the sex of [grand_duke_alexander_mikhailovich_of_russia] kid	male
+[charlotte_duchess_of_albany] mother gender	male
+is [charlotte_duchess_of_albany] mother a man or a woman	male
+what is the [charlotte_duchess_of_albany] mother gender	male
+what is the mom of darling of [georg_donatus_hereditary_grand_duke_of_hesse]	prince_andrew_of_greece_and_denmark
+what is the mom of [georg_donatus_hereditary_grand_duke_of_hesse] darling	prince_andrew_of_greece_and_denmark
+what is the [georg_donatus_hereditary_grand_duke_of_hesse] darling mom	prince_andrew_of_greece_and_denmark
+[georg_donatus_hereditary_grand_duke_of_hesse] other half sex	female
+the sex of other half of [georg_donatus_hereditary_grand_duke_of_hesse]	female
+what sex is [georg_donatus_hereditary_grand_duke_of_hesse] other half	female
+the mom of father of [princess_caroline_elizabeth_of_great_britain]	george_i_of_great_britain
+the mom of [princess_caroline_elizabeth_of_great_britain] father	george_i_of_great_britain
+what is [ferdinand_maria_elector_of_bavaria] son birthplace	munich
+what is the place_of_birth of son of [ferdinand_maria_elector_of_bavaria]	munich
+what is the [ptolemy_ix_lathyros] spouse gender	female
+is [ptolemy_ix_lathyros] spouse a man or a woman	female
+what is the [rasmus_bartholin] mom institution	university_of_copenhagen
+the institution of [rasmus_bartholin] mom	university_of_copenhagen
+the institution of mom of [rasmus_bartholin]	university_of_copenhagen
+what is the sex of mother of [rasmus_bartholin]	male
+what is the sex of [rasmus_bartholin] mother	male
+the mother of [william_starling_burgess] son	william_starling_burgess
+what is the [william_starling_burgess] son mother	william_starling_burgess
+[william_starling_burgess] son mother	william_starling_burgess
+what did [ida_lupino] darling die from	lung_cancer
+the gender of darling of [roger_needham]	female
+the gender of [roger_needham] darling	female
+[roger_needham] husband profession	computer_scientist
+what is the profession of husband of [roger_needham]	computer_scientist
+what is the nationality of spouse of [roger_needham]	united_kingdom
+where does [roger_needham] spouse come from	united_kingdom
+which nationality is [roger_needham] spouse	united_kingdom
+[geza_i_of_hungary] child nationality	hungary
+what is the [geza_i_of_hungary] child nationality	hungary
+is [elizabeth_macquarie] darling a man or a woman	male
+what is the gender of [elizabeth_macquarie] darling	male
+the gender of [elizabeth_macquarie] darling	male
+what did [maria_adelaide_of_austria] child die from	tyrannicide
+what is the reason of [maria_adelaide_of_austria] childdeath	tyrannicide
+[irina_godunova] other half gender	male
+what is the [irina_godunova] other half gender	male
+is [irina_godunova] other half a man or a woman	male
+what is the couple of [sunandha] mom	mongkut
+[sunandha] mom couple	mongkut
+what does [henry_iv_of_england] heir do for a living	monarch
+what line of business is [henry_iv_of_england] heir in	monarch
+the place_of_death of [francis_iv_duke_of_modena] heir	graz
+what is the place_of_death of heir of [francis_iv_duke_of_modena]	graz
+what is the place_of_death of [francis_iv_duke_of_modena] heir	graz
+what is [chagatai_khan] parent race like	mongols
+the race of parent of [chagatai_khan]	mongols
+what is the type of religion of mom of [domenico_tintoretto]	catholicism
+[frank_lloyd_wright] children nation	united_states
+the nation of children of [frank_lloyd_wright]	united_states
+what is the [frank_lloyd_wright] kid gender	male
+the heir of mother of [diego_colon]	fernando_colon
+the heir of [diego_colon] mother	fernando_colon
+what is the nationality of mom of [diego_colon]	italy
+what is the nationality of [diego_colon] mom	italy
+the nationality of mom of [diego_colon]	italy
+what gender is [cecilia_renata_of_austria] husband	male
+is [cecilia_renata_of_austria] husband a man or a woman	male
+what religious belief does [cecilia_renata_of_austria] spouse have	catholicism
+what is the [harry_hay] husband profession	inventor
+[harry_hay] husband profession	inventor
+the profession of husband of [harry_hay]	inventor
+what is the [henry_iii_holy_roman_emperor] child gender	male
+what is the gender of [henry_iii_holy_roman_emperor] child	male
+what is the father of [henry_iii_holy_roman_emperor] children	henry_iii_holy_roman_emperor
+the father of [henry_iii_holy_roman_emperor] children	henry_iii_holy_roman_emperor
+what is the father of children of [henry_iii_holy_roman_emperor]	henry_iii_holy_roman_emperor
+what gender is [benjamin_harrison] other half	female
+the gender of other half of [benjamin_harrison]	female
+what is the gender of other half of [benjamin_harrison]	female
+what is the [luis_munoz_marin] darling sex	female
+what is [luis_munoz_marin] other half working on	first_lady
+[luis_munoz_marin] other half occupation	first_lady
+what is the occupation of other half of [luis_munoz_marin]	first_lady
+what does [marvin_pentz_gay_sr] kid do	record_producer
+what is [marvin_pentz_gay_sr] kid	record_producer
+the cause_of_death of [marvin_pentz_gay_sr] son	firearm
+what is the [marvin_pentz_gay_sr] son cause_of_death	firearm
+what is [marvin_pentz_gay_sr] son working on	composer
+what is [marvin_pentz_gay_sr] son	composer
+what race is [marvin_pentz_gay_sr] daughter	african_american
+what is the [marvin_pentz_gay_sr] daughter race	african_american
+what is [marvin_pentz_gay_sr] daughter race about	african_american
+what is the [margaret_mead] darling nation	united_states
+where does [margaret_mead] darling come from	united_states
+[margaret_mead] darling nation	united_states
+what is the sex of [lady_cynthia_mosley] dad	female
+the sex of [niels_bohr] mother	male
+what is the sex of mother of [niels_bohr]	male
+[niels_bohr] dad nationality	denmark
+where does [niels_bohr] dad come from	denmark
+who is the son of [niels_bohr] parents	harald_bohr
+what is the name of the parents of [henry_iii_of_france] father	madeleine_de_la_tour_dauvergne
+what is the [henry_iii_of_france] father parents	madeleine_de_la_tour_dauvergne
+what is the name of the grandparents of [henry_iii_of_france]	madeleine_de_la_tour_dauvergne
+which city did [henry_iii_of_france] mom born	florence
+what is the son of offspring of [chulalongkorn]	nakkhatra_mangkala_kitiyakara
+[chulalongkorn] offspring son	nakkhatra_mangkala_kitiyakara
+what is the [charles_duke_of_lower_lorraine] father son	lothair_of_france
+the son of [charles_duke_of_lower_lorraine] father	lothair_of_france
+the son of father of [charles_duke_of_lower_lorraine]	lothair_of_france
+[otto_i_duke_of_saxony] parents sex	male
+what is the sex of parents of [otto_i_duke_of_saxony]	male
+what is the [otto_i_duke_of_saxony] parents sex	male
+where did [alice_of_bourbon_parma] wife born	florence
+what is the place_of_birth of wife of [alice_of_bourbon_parma]	florence
+the place_of_birth of [alice_of_bourbon_parma] wife	florence
+the nation of spouse of [bettye_ackerman]	united_states
+[jenny_von_westphalen] daughter parents	jenny_von_westphalen
+what is the [jenny_von_westphalen] daughter parents	jenny_von_westphalen
+the gender of [pearl_bailey] couple	male
+the gender of couple of [pearl_bailey]	male
+what is the [saovabha] mom spouse	mongkut
+what is the name of the spouse of [saovabha] mom	mongkut
+what is the father of [infanta_maria_de_la_paz_of_spain] other half	infanta_amelia_philippina_of_spain
+[infanta_maria_de_la_paz_of_spain] other half father	infanta_amelia_philippina_of_spain
+what is the [infanta_maria_de_la_paz_of_spain] other half father	infanta_amelia_philippina_of_spain
+what is the [albert_vii_archduke_of_austria] darling sex	female
+what is the sex of [albert_vii_archduke_of_austria] darling	female
+the religious belief of [rani_mangammal] other half	hinduism
+what religious belief does [rani_mangammal] other half have	hinduism
+the religious belief of other half of [rani_mangammal]	hinduism
+the profession of [wladyslaw_czartoryski] parent	politician
+what is [wladyslaw_czartoryski] parent	politician
+the profession of child of [gheorghe_i_tasca]	politician
+the educational institution of [edward_salisbury_dana] parents	yale_university
+[edward_salisbury_dana] parents educational institution	yale_university
+which nationality is [edward_salisbury_dana] parents	united_states
+where does [edward_salisbury_dana] parents come from	united_states
+[frances_polidori] offspring occupation	illustrator
+what is the occupation of offspring of [frances_polidori]	illustrator
+what does [frances_polidori] offspring do for a living	illustrator
+what is the mom of [osorkon_iii] daughter	osorkon_iii
+what is the name of the mom of [osorkon_iii] daughter	osorkon_iii
+the mom of [osorkon_iii] daughter	osorkon_iii
+what is the gender of [nicholas_ii_of_russia] children	female
+[nicholas_ii_of_russia] children gender	female
+what is the gender of children of [nicholas_ii_of_russia]	female
+the cause_of_death of daughter of [nicholas_ii_of_russia]	murder
+what is the reason of [nicholas_ii_of_russia] daughterdeath	murder
+the race of darling of [margaret_sullavan]	jew
+what is the race of darling of [margaret_sullavan]	jew
+the nation of [margaret_sullavan] spouse	france
+where does [margaret_sullavan] spouse come from	france
+what is the [margaret_sullavan] spouse nation	france
+what is the [vratislaus_ii_of_bohemia] mom nationality	germany
+the nationality of mom of [vratislaus_ii_of_bohemia]	germany
+the nationality of [vratislaus_ii_of_bohemia] mom	germany
+the gender of daughter of [joseph_p_kennedy_sr]	female
+the gender of [joseph_p_kennedy_sr] daughter	female
+what is the daughter of [princess_sophia_dorothea_of_prussia] dad	frederick_ii_of_prussia
+the sex of parents of [princess_sophia_dorothea_of_prussia]	male
+[princess_sophia_dorothea_of_prussia] parents sex	male
+what is the [princess_sophia_dorothea_of_prussia] parents sex	male
+what is the parents of parents of [princess_sophia_dorothea_of_prussia]	sophia_dorothea_of_celle
+[princess_sophia_dorothea_of_prussia] parents parents	sophia_dorothea_of_celle
+the nationality of [john_spencer_churchill_7th_duke_of_marlborough] daughter	united_kingdom
+what is the nationality of [john_spencer_churchill_7th_duke_of_marlborough] daughter	united_kingdom
+what is the nationality of daughter of [john_spencer_churchill_7th_duke_of_marlborough]	united_kingdom
+the nation of offspring of [john_spencer_churchill_7th_duke_of_marlborough]	england
+where does [john_spencer_churchill_7th_duke_of_marlborough] offspring come from	england
+what type of religion does [j_p_morgan_jr] dad have	anglicanism
+what does [j_p_morgan_jr] parents do	financier
+the profession of [j_p_morgan_jr] parents	financier
+what is the sex of [henry_of_portugal] mother	male
+[henry_of_portugal] mother sex	male
+the sex of [henry_of_portugal] mother	male
+what faith is [george_of_saxony] child	roman_catholic_church
+what faith does [george_of_saxony] child follow	roman_catholic_church
+what faith does [george_of_saxony] child have	roman_catholic_church
+what is the [techichpotzin] mother sex	male
+what is the sex of [techichpotzin] mother	male
+the sex of [techichpotzin] mother	male
+the nation of other half of [anahareo]	canada
+what is the nation of [anahareo] other half	canada
+what is the [anahareo] wife nation	united_states
+what is the nation of [anahareo] wife	united_states
+the place_of_death of [anahareo] darling	prince_albert
+what city did [anahareo] darling die	prince_albert
+what is the [anahareo] darling place_of_death	prince_albert
+how [anahareo] couple died	pneumonia
+what killed the [anahareo] couple	pneumonia
+what made the [anahareo] coupledead	pneumonia
+what is the sex of heir of [marie_antoinette]	female
+what is the [marie_antoinette] heir sex	female
+the sex of heir of [marie_antoinette]	female
+what is the gender of [benjamin_disraeli_1st_earl_of_beaconsfield] darling	female
+what gender is [benjamin_disraeli_1st_earl_of_beaconsfield] darling	female
+the job of spouse of [doris_blackburn]	lawyer
+the job of [doris_blackburn] spouse	lawyer
+what is the nation of [alexander_ii_of_russia] mother	germany
+where does [alexander_ii_of_russia] mother come from	germany
+what is the nation of mother of [alexander_ii_of_russia]	germany
+what is the [princess_margaret_of_connaught] children job	prince
+what is the [henry_iv_holy_roman_emperor] dad kid	henry_iv_holy_roman_emperor
+who is the kid of [henry_iv_holy_roman_emperor] dad	henry_iv_holy_roman_emperor
+[henry_iv_holy_roman_emperor] dad kid	henry_iv_holy_roman_emperor
+[maria_of_spain] offspring sex	male
+what is the sex of [maria_of_spain] offspring	male
+the wife of [maria_of_spain] heir	infanta_isabella_clara_eugenia_of_spain
+what is the name of the wife of [maria_of_spain] heir	infanta_isabella_clara_eugenia_of_spain
+the wife of heir of [maria_of_spain]	infanta_isabella_clara_eugenia_of_spain
+what is the child of [archduke_louis_of_austria] mother	rudolf_cardinal_von_habsburg_lothringen
+[archduke_louis_of_austria] mother child	rudolf_cardinal_von_habsburg_lothringen
+what is the [archduke_louis_of_austria] parent son	archduke_joseph_of_austria_palatine_of_hungary
+what is the son of parent of [archduke_louis_of_austria]	archduke_joseph_of_austria_palatine_of_hungary
+the gender of mom of [george_formby]	male
+what is the gender of [george_formby] mom	male
+which nationality is [george_formby] mom	england
+[george_formby] mom nationality	england
+the nationality of [george_formby] mom	england
+the institution of [edward_smith_stanley_14th_earl_of_derby] dad	trinity_college_cambridge
+which institution does [edward_smith_stanley_14th_earl_of_derby] dad work for	trinity_college_cambridge
+which nationality is [marie-anne_pierrette_paulze] wife	united_kingdom
+what is the nationality of wife of [marie-anne_pierrette_paulze]	united_kingdom
+[marie-anne_pierrette_paulze] wife nationality	united_kingdom
+what is the nation of [marie-anne_pierrette_paulze] other half	germany
+the faith of husband of [marie-anne_pierrette_paulze]	anglicanism
+what faith does [marie-anne_pierrette_paulze] husband follow	anglicanism
+the faith of [marie-anne_pierrette_paulze] husband	anglicanism
+what sex is [juba_ii] other half	female
+what is the sex of [juba_ii] other half	female
+the sex of [juba_ii] other half	female
+[juba_ii] wife parents	cleopatra_vii_of_egypt
+what is the [erekle_i_of_kakheti] daughter gender	male
+who is the couple of [alice_spencer] kid	henry_hastings_5th_earl_of_huntingdon
+what is the nation of mother of [henry_howard_7th_duke_of_norfolk]	kingdom_of_england
+what is the [henry_howard_7th_duke_of_norfolk] mother nation	kingdom_of_england
+which nationality is [henry_howard_7th_duke_of_norfolk] mom	england
+what is the nation of mom of [henry_howard_7th_duke_of_norfolk]	england
+where does [henry_howard_7th_duke_of_norfolk] mom come from	england
+what is the [matilda_of_flanders] husband sex	male
+what sex is [matilda_of_flanders] husband	male
+the ethnicity of [noble_consort_wan] wife	manchu
+what ethnicity is [noble_consort_wan] wife	manchu
+[noble_consort_wan] wife ethnicity	manchu
+the parent of couple of [noble_consort_wan]	yongzheng_emperor
+[noble_consort_wan] couple parent	yongzheng_emperor
+what is the [noble_consort_wan] spouse daughter	jiaqing_emperor
+what faith does [victor_amadeus_iii_of_sardinia] father practice	catholicism
+the sex of wife of [huey_long]	female
+is [huey_long] wife a man or a woman	female
+[augusta_viktoria_of_schleswig-holstein] child gender	male
+the gender of [augusta_viktoria_of_schleswig-holstein] child	male
+please tell me [augusta_viktoria_of_schleswig-holstein] children present address	potsdam
+what is the address of [augusta_viktoria_of_schleswig-holstein] children	potsdam
+[augusta_viktoria_of_schleswig-holstein] children address	potsdam
+what is the [natalia_alexeievna_of_russia] parents gender	female
+what gender is [natalia_alexeievna_of_russia] parents	female
+is [william_cavendish_bentinck_7th_duke_of_portland] kid a man or a woman	female
+what is the gender of [william_cavendish_bentinck_7th_duke_of_portland] kid	female
+[william_cavendish_bentinck_7th_duke_of_portland] kid gender	female
+who is the heir of [wang_khan] children	mongke_khan
+the sex of child of [wang_khan]	female
+is [wang_khan] child a man or a woman	female
+what is the sex of child of [wang_khan]	female
+please tell me [lynn_redgrave] mother present address	bristol
+what did [lynn_redgrave] dad die from	parkinsons_disease
+[lynn_redgrave] dad nationality	united_kingdom
+the nationality of dad of [lynn_redgrave]	united_kingdom
+the place_of_birth of [katherine_corri_harris] spouse	philadelphia
+what is the hometown of [katherine_corri_harris] spouse	philadelphia
+[katherine_corri_harris] spouse place_of_birth	philadelphia
+what is the [katherine_corri_harris] darling nationality	united_states
+the nationality of darling of [katherine_corri_harris]	united_states
+where does [katherine_corri_harris] darling come from	united_states
+which nationality is [maria_of_brabant] children	france
+what is the nation of [maria_of_brabant] children	france
+[ahaz] children place_of_death	jerusalem
+what religious belief does [mihrimar] parents practice	islam
+what religious belief does [mihrimar] parents follow	islam
+what made the [archduke_carl_ludwig_of_austria] offspringdead	firearm
+[archduke_carl_ludwig_of_austria] offspring cause_of_death	firearm
+the cause_of_death of offspring of [archduke_carl_ludwig_of_austria]	firearm
+who is the granddaughter of [archduke_carl_ludwig_of_austria]	prince_ernst_von_hohenberg
+the daughter of [archduke_carl_ludwig_of_austria] child	prince_ernst_von_hohenberg
+which city did [archduke_carl_ludwig_of_austria] child born	graz
+the sex of child of [david_kawananakoa]	female
+what sex is [david_kawananakoa] child	female
+what is the husband of [robert_i_duke_of_burgundy] mother	constance_of_arles
+[robert_i_duke_of_burgundy] mother husband	constance_of_arles
+what is the sex of dad of [robert_i_duke_of_burgundy]	male
+the sex of [alexander_ferdinand_3rd_prince_of_thurn_and_taxis] kid	male
+what sex is [alexander_ferdinand_3rd_prince_of_thurn_and_taxis] kid	male
+is [leopold_ii_holy_roman_emperor] heir a man or a woman	male
+what killed the [james_otis_sr] daughter	lightning
+what is the cause_of_death of daughter of [james_otis_sr]	lightning
+the nation of children of [james_otis_sr]	united_states
+what is the [james_otis_sr] children nation	united_states
+the cause_of_death of [pedro_ii_of_brazil] heir	yellow_fever
+what is the cause_of_death of heir of [pedro_ii_of_brazil]	yellow_fever
+[pedro_ii_of_brazil] heir cause_of_death	yellow_fever
+what is the nationality of other half of [edward_blake]	canada
+what is the [edward_blake] other half nationality	canada
+the nationality of other half of [edward_blake]	canada
+[caroline_benn] other half nationality	united_kingdom
+where does [caroline_benn] other half come from	united_kingdom
+what is the son of parent of [thomas_thynne_1st_marquess_of_bath]	thomas_thynne_1st_marquess_of_bath
+what is the son of [thomas_thynne_1st_marquess_of_bath] parent	thomas_thynne_1st_marquess_of_bath
+what is the heir of mother of [frits_philips]	frits_philips
+what is the name of the heir of [frits_philips] mother	frits_philips
+the religion of [infante_fernando_duke_of_viseu] wife	roman_catholic_church
+what religion does [infante_fernando_duke_of_viseu] wife have	roman_catholic_church
+what is the [yaroslav_i_the_wise] couple gender	male
+what is the [yaroslav_i_the_wise] daughter gender	male
+what is the gender of daughter of [yaroslav_i_the_wise]	male
+the daughter of mom of [laura_marx]	jenny_longuet
+what is the [laura_marx] mom daughter	jenny_longuet
+is [sherman_hoar] offspring a man or a woman	male
+the sex of offspring of [sherman_hoar]	male
+[sherman_hoar] offspring sex	male
+what is the gender of [empress_xiaomu] couple	male
+[empress_xiaomu] couple gender	male
+the gender of [empress_xiaomu] couple	male
+what is the gender of mother of [philip_ii_of_taranto]	male
+what gender is [philip_ii_of_taranto] mother	male
+the daughter of [louise_elisabeth_of_orleans] mom	duc_dorleans
+who is the daughter of [louise_elisabeth_of_orleans] mom	duc_dorleans
+what is the [charles_i_duke_of_burgundy] wife child	mary_of_burgundy
+what is the child of wife of [charles_i_duke_of_burgundy]	mary_of_burgundy
+what is the [william_ii_german_emperor] mom place_of_death	potsdam
+what sex is [william_ii_german_emperor] dad	male
+what is the sex of [william_ii_german_emperor] dad	male
+[william_ii_german_emperor] dad offspring	princess_charlotte_of_prussia
+what is the [william_ii_german_emperor] dad offspring	princess_charlotte_of_prussia
+who is the offspring of [william_ii_german_emperor] dad	princess_charlotte_of_prussia
+what is the work of father of [mette_marit_crown_princess_of_norway]	journalist
+what is [mette_marit_crown_princess_of_norway] father working on	journalist
+the daughter of parent of [louis_of_bourbon_duke_of_orleans]	duc_dorleans
+what is the name of the daughter of [louis_of_bourbon_duke_of_orleans] parent	duc_dorleans
+what is the [louis_of_bourbon_duke_of_orleans] parent daughter	duc_dorleans
+[james_cruze] husband gender	female
+what gender is [james_cruze] husband	female
+[sam_marx] child darling	susan_fleming
+what is the sex of [princess_ileana_of_romania] wife	male
+what is the [princess_ileana_of_romania] wife sex	male
+is [princess_ileana_of_romania] wife a man or a woman	male
+what is the [boleslaw_ii_of_poland] dad gender	male
+[elizabeth_allan_1908] darling place_of_death	new_york
+what is the place_of_death of [elizabeth_allan_1908] darling	new_york
+where does [caroline_webster_schermerhorn_astor] other half work	columbia_university
+the educational institution of other half of [caroline_webster_schermerhorn_astor]	columbia_university
+[caroline_webster_schermerhorn_astor] husband son	john_jacob_astor_iv
+what is the son of husband of [caroline_webster_schermerhorn_astor]	john_jacob_astor_iv
+the parent of son of [augusta_of_saxe-weimar]	william_i_german_emperor
+what is the [augusta_of_saxe-weimar] son parent	william_i_german_emperor
+who is the parent of [augusta_of_saxe-weimar] son	william_i_german_emperor
+what is the ethnicity of child of [yongzheng_emperor]	manchu
+what is the [yongzheng_emperor] child ethnicity	manchu
+the father of [yongzheng_emperor] child	yongzheng_emperor
+what is the [yongzheng_emperor] offspring kid	jiaqing_emperor
+the kid of [yongzheng_emperor] offspring	jiaqing_emperor
+what is the [effie_gray] darling educational institution	christ_church_oxford
+[vilhelmine_marie_of_denmark] wife nation	denmark
+what is the [vilhelmine_marie_of_denmark] wife nation	denmark
+where does [vilhelmine_marie_of_denmark] wife come from	denmark
+[false_dmitriy_i] mother sex	male
+the sex of [false_dmitriy_i] mother	male
+who is the children of [tiberius_nero] children	julius_caesar_drusus
+what is the name of the grandchildren of [tiberius_nero]	julius_caesar_drusus
+[tiberius_nero] children children	julius_caesar_drusus
+the father of daughter of [ellen_terry]	edward_william_godwin
+what is the father of [ellen_terry] daughter	edward_william_godwin
+what is the name of the father of [ellen_terry] daughter	edward_william_godwin
+what is the sex of [sviatoslav_ii_of_kiev] dad	male
+is [sviatoslav_ii_of_kiev] dad a man or a woman	male
+who is the child of [albert_of_saxe-coburg_and_gotha] child	victoria_eugenia_of_battenberg
+who is the grandchild of [albert_of_saxe-coburg_and_gotha]	victoria_eugenia_of_battenberg
+what is the name of the child of [albert_of_saxe-coburg_and_gotha] child	victoria_eugenia_of_battenberg
+the child of children of [albert_of_saxe-coburg_and_gotha]	prince_maurice_of_battenberg
+what is the name of the child of [albert_of_saxe-coburg_and_gotha] children	prince_maurice_of_battenberg
+what did [albert_of_saxe-coburg_and_gotha] daughter die from	infectious_disease
+what made the [albert_of_saxe-coburg_and_gotha] daughterdead	infectious_disease
+how [albert_of_saxe-coburg_and_gotha] daughter died	infectious_disease
+the heir of daughter of [victoria_kinoiki_kekaulike]	abigail_kapiolani_kawananakoa
+[victoria_kinoiki_kekaulike] daughter heir	abigail_kapiolani_kawananakoa
+the heir of [victoria_kinoiki_kekaulike] daughter	abigail_kapiolani_kawananakoa
+what is the [elizabeth_blair_lee] darling job	naval_officer
+what is the job of [elizabeth_blair_lee] darling	naval_officer
+what is [elizabeth_blair_lee] darling working on	naval_officer
+[nathan_mayer_rothschild] son profession	politician
+what line of business is [nathan_mayer_rothschild] son in	politician
+what is the [nathan_mayer_rothschild] son profession	politician
+what is the nation of daughter of [nathan_mayer_rothschild]	united_kingdom
+what is the [nathan_mayer_rothschild] daughter nation	united_kingdom
+[cheryl_crowe] child place_of_death	escondido
+what is the place_of_death of child of [cheryl_crowe]	escondido
+which city did [maria_victoria_al_pozzo_della_cisterna] darling born	turin
+where did [maria_victoria_al_pozzo_della_cisterna] darling born	turin
+what is the hometown of [maria_victoria_al_pozzo_della_cisterna] darling	turin
+[artabastos] parents gender	male
+[andrey_bolshoy] parents gender	male
+is [andrey_bolshoy] parents a man or a woman	male
+what is the [johann_conrad_weiser_sr] children address	baden-wurttemberg
+the address of [johann_conrad_weiser_sr] children	baden-wurttemberg
+the address of children of [johann_conrad_weiser_sr]	baden-wurttemberg
+where did [george_iii_of_the_united_kingdom] daughter die	windsor_castle
+the place_of_death of [george_iii_of_the_united_kingdom] daughter	windsor_castle
+what is the [pierre_curie] children place_of_birth	paris
+what is the place_of_birth of children of [pierre_curie]	paris
+what is the [pierre_curie] child sex	female
+the nationality of son of [pierre_curie]	france
+what is the nationality of [pierre_curie] son	france
+the educational institution of husband of [laura_devon]	university_of_michigan
+where does [laura_devon] husband work for	university_of_michigan
+what is the educational institution of [laura_devon] husband	university_of_michigan
+the organization of [laura_devon] other half	university_of_notre_dame
+what is the organization of other half of [laura_devon]	university_of_notre_dame
+the organization of other half of [laura_devon]	university_of_notre_dame
+[infante_joao_of_portugal] parents daughter	infanta_isabel_duchess_of_burgundy
+what is the gender of couple of [maria_luisa_of_savoy]	male
+the gender of [maria_luisa_of_savoy] couple	male
+what is the nation of [george_herbert_11th_earl_of_pembroke] parent	united_kingdom
+the son of mom of [john_ii_casimir_of_poland]	alexander_charles_vasa
+the son of [john_ii_casimir_of_poland] mom	alexander_charles_vasa
+what is the [john_ii_casimir_of_poland] dad faith	catholicism
+what faith does [john_ii_casimir_of_poland] dad have	catholicism
+how [caesonia] other half died	tyrannicide
+what is the cause_of_death of other half of [caesonia]	tyrannicide
+why [caesonia] other half died	tyrannicide
+what is the mother of [caesonia] wife	germanicus
+what is the [caesonia] wife mother	germanicus
+who is the spouse of [aelia_eudoxia] husband	aelia_eudoxia
+what is the name of the spouse of [aelia_eudoxia] husband	aelia_eudoxia
+what is the [aelia_eudoxia] husband spouse	aelia_eudoxia
+who is the father of [aelia_eudoxia] wife	theodosius_i
+what is the father of wife of [aelia_eudoxia]	theodosius_i
+what is the place_of_death of mother of [william_kissam_vanderbilt]	new_york
+the place_of_death of mother of [william_kissam_vanderbilt]	new_york
+the place_of_death of [william_kissam_vanderbilt] mother	new_york
+what is the name of the grandparent of [william_kissam_vanderbilt]	cornelius_vanderbilt
+what is the [johann_bernoulli] son nation	netherlands
+what is the nation of [johann_bernoulli] son	netherlands
+the nation of son of [johann_bernoulli]	netherlands
+what city did [mihailo_obrenovic_iii_prince_of_serbia] mom die	belgrade
+[mihailo_obrenovic_iii_prince_of_serbia] mom place_of_death	belgrade
+the sex of [laura_borden] wife	male
+[thomas_spurgeon] parent religious belief	christian
+what religious belief does [thomas_spurgeon] parent practice	christian
+the child of [thomas_spurgeon] parent	thomas_spurgeon
+what is the child of parent of [thomas_spurgeon]	thomas_spurgeon
+what is the name of the child of [thomas_spurgeon] parent	thomas_spurgeon
+[francis_ii_holy_roman_emperor] children sex	female
+is [francis_ii_holy_roman_emperor] children a man or a woman	female
+the sex of children of [francis_ii_holy_roman_emperor]	female
+who is the daughter of [leonora_of_england] mom	geoffrey_ii_duke_of_brittany
+what is the daughter of [leonora_of_england] mom	geoffrey_ii_duke_of_brittany
+[leonora_of_england] mom daughter	geoffrey_ii_duke_of_brittany
+who is the grandmom of [stephen_i_of_hungary]	taksony_of_hungary
+the mom of [stephen_i_of_hungary] mom	taksony_of_hungary
+what is the name of the mom of [stephen_i_of_hungary] mom	taksony_of_hungary
+what is the dad of [chlodomer] kid	chlodomer
+the dad of kid of [chlodomer]	chlodomer
+what is the [edmund_stafford_5th_earl_of_stafford] child nation	kingdom_of_england
+the nation of child of [edmund_stafford_5th_earl_of_stafford]	kingdom_of_england
+which nationality is [edmund_stafford_5th_earl_of_stafford] child	kingdom_of_england
+[george_grossmith_jr] mom profession	novelist
+what is [george_grossmith_jr] mom working on	novelist
+where does [george_grossmith_jr] dad come from	england
+the nation of [george_grossmith_jr] dad	england
+what is the nation of [george_grossmith_jr] dad	england
+what is the work of father of [george_grossmith_jr]	singer
+what does [george_grossmith_jr] father do	singer
+what does [george_grossmith_jr] father do for a living	singer
+what is the gender of [charles_ii_of_austria] son	female
+what gender is [charles_ii_of_austria] son	female
+what is the name of the parents of [alva_belmont] spouse	william_henry_vanderbilt
+what is the [alva_belmont] spouse parents	william_henry_vanderbilt
+[alva_belmont] spouse parents	william_henry_vanderbilt
+[alva_belmont] darling nation	united_states
+which nationality is [alva_belmont] darling	united_states
+what is the nationality of [titus_van_rijn] dad	netherlands
+where did [titus_van_rijn] father die	amsterdam
+the place_of_death of father of [titus_van_rijn]	amsterdam
+what is the [titus_van_rijn] father place_of_death	amsterdam
+the nationality of [anne_of_york] wife	england
+the nationality of wife of [anne_of_york]	england
+what is the [jawaharlal_nehru] heir place_of_birth	allahabad
+the place_of_birth of [jawaharlal_nehru] heir	allahabad
+what does [jawaharlal_nehru] children do	politician
+the job of children of [jawaharlal_nehru]	politician
+the job of [jawaharlal_nehru] children	politician
+what faith does [jawaharlal_nehru] heir follow	hinduism
+what is the gender of [jahangir] heir	male
+the children of offspring of [jahangir]	dara_shikoh
+[jahangir] offspring children	dara_shikoh
+the children of [jahangir] offspring	dara_shikoh
+the gender of heir of [henry_ii_of_france]	male
+the gender of [henry_ii_of_france] heir	male
+[henry_ii_of_france] heir gender	male
+[madhubala] couple profession	singer
+what religion does [madhubala] other half have	hinduism
+what caused the [madhubala] coupledeath	cardiovascular_disease
+what is the cause_of_death of couple of [madhubala]	cardiovascular_disease
+what killed the [madhubala] couple	cardiovascular_disease
+the sex of darling of [ronald_reagan]	female
+what is [ronald_reagan] husband working on	actor
+the occupation of husband of [ronald_reagan]	actor
+the occupation of [ronald_reagan] husband	actor
+[maria_luisa_of_parma] son nation	spain
+what is the nation of [maria_luisa_of_parma] son	spain
+what is the nation of son of [maria_luisa_of_parma]	spain
+the place_of_death of [maria_luisa_of_parma] offspring	trieste
+[maria_luisa_of_parma] offspring place_of_death	trieste
+what is the name of the grandson of [leopold_grand_duke_of_baden]	grand_duke_alexei_mikhailovich_of_russia
+what is the son of [leopold_grand_duke_of_baden] kid	grand_duke_alexei_mikhailovich_of_russia
+what is the son of kid of [leopold_grand_duke_of_baden]	grand_duke_alexei_mikhailovich_of_russia
+the place_of_birth of [vittorio_emanuele_count_of_turin] mom	turin
+[vittorio_emanuele_count_of_turin] mom place_of_birth	turin
+what is the name of the parents of [louis_philippe_i_duke_of_orleans] mom	francoise_marie_de_bourbon
+what is the parents of [louis_philippe_i_duke_of_orleans] mom	francoise_marie_de_bourbon
+what is the parents of mom of [louis_philippe_i_duke_of_orleans]	francoise_marie_de_bourbon
+the sex of parent of [louis_philippe_i_duke_of_orleans]	male
+[john_d_rockefeller_jr] child nationality	united_states
+what is the [john_d_rockefeller_jr] child nationality	united_states
+the nationality of [john_d_rockefeller_jr] child	united_states
+how [john_d_rockefeller_jr] kid died	myocardial_infarction
+what did [john_d_rockefeller_jr] kid die from	myocardial_infarction
+the cause_of_death of [alexander_kara_or_evic_prince_of_serbia] father	assassination
+what is the sex of [anna_radziwill] other half	male
+is [anna_radziwill] other half a man or a woman	male
+what is the sex of other half of [anna_radziwill]	male
+the gender of [ruth_roland] couple	male
+[ruth_roland] couple gender	male
+[john_iv_of_portugal] child gender	male
+the gender of [john_iv_of_portugal] child	male
+what is the mother of couple of [victor_emmanuel_iii_of_italy]	nicholas_i_of_montenegro
+who is the mother of [victor_emmanuel_iii_of_italy] couple	nicholas_i_of_montenegro
+[victor_emmanuel_iii_of_italy] couple mother	nicholas_i_of_montenegro
+the place_of_birth of spouse of [victor_emmanuel_iii_of_italy]	cetinje
+[victor_emmanuel_iii_of_italy] spouse place_of_birth	cetinje
+please tell me [ray_bridwell_white] parents present address	kentucky
+the location of [ray_bridwell_white] parents	kentucky
+where is [ray_bridwell_white] parents staying	kentucky
+the race of [princess_tenagnework] father	oromo
+what is the [princess_tenagnework] father race	oromo
+the gender of father of [princess_tenagnework]	male
+what gender is [princess_tenagnework] father	male
+what is the [princess_tenagnework] father gender	male
+what does [princess_tenagnework] parent do	monarch
+what is [princess_tenagnework] parent	monarch
+what is the kid of [princess_tenagnework] father	princess_tsehai
+what is the [princess_tenagnework] father kid	princess_tsehai
+what is the [franz_joseph_i_of_austria] wife cause_of_death	assassination
+how [franz_joseph_i_of_austria] wife died	assassination
+the gender of darling of [franz_joseph_i_of_austria]	female
+the gender of [franz_joseph_i_of_austria] darling	female
+[franz_joseph_i_of_austria] darling gender	female
+what is the place_of_birth of [adolphus_busch_iii] mom	st_louis_missouri
+the place_of_birth of [adolphus_busch_iii] mom	st_louis_missouri
+which city did [adolphus_busch_iii] mom born	st_louis_missouri
+[frederick_v_of_denmark] father sex	female
+the sex of father of [frederick_v_of_denmark]	female
+what is the [hermann_einstein] other half nationality	germany
+which nationality is [hermann_einstein] other half	germany
+the nationality of [hermann_einstein] other half	germany
+the faith of [hermann_einstein] offspring	jew
+[hermann_einstein] offspring faith	jew
+where is [hermann_einstein] heir living	italy
+where is [hermann_einstein] heir staying	italy
+what is the job of [hermann_einstein] kid	physician
+what does [hermann_einstein] kid do for a living	physician
+what is [hermann_einstein] kid	physician
+what is the sex of offspring of [hermann_einstein]	female
+the sex of [hermann_einstein] offspring	female
+what sex is [hermann_einstein] offspring	female
+what is the mom of parents of [princess_amelia_sophia_of_great_britain]	george_i_of_great_britain
+who is the grandmom of [princess_amelia_sophia_of_great_britain]	george_i_of_great_britain
+[princess_amelia_sophia_of_great_britain] parents mom	george_i_of_great_britain
+what is [anna_lee] husband	screenwriter
+what city did [anna_lee] darling die	santa_barbara
+the nation of [luz_magsaysay] spouse	philippines
+the nation of spouse of [luz_magsaysay]	philippines
+the sex of [joseph_e_davies] darling	female
+is [joseph_e_davies] darling a man or a woman	female
+what is the sex of [joseph_e_davies] darling	female
+who is the darling of [joseph_e_davies] other half	joseph_e_davies
+what is the darling of other half of [joseph_e_davies]	joseph_e_davies
+what is the name of the darling of [joseph_e_davies] other half	joseph_e_davies
+what does [thomas_thynne_2nd_viscount_weymouth] kid do for a living	politician
+[thomas_thynne_2nd_viscount_weymouth] kid job	politician
+the job of [thomas_thynne_2nd_viscount_weymouth] kid	politician
+who is the parents of [thomas_thynne_2nd_viscount_weymouth] daughter	thomas_thynne_2nd_viscount_weymouth
+the parents of daughter of [thomas_thynne_2nd_viscount_weymouth]	thomas_thynne_2nd_viscount_weymouth
+what is the name of the parents of [thomas_thynne_2nd_viscount_weymouth] daughter	thomas_thynne_2nd_viscount_weymouth
+what is the location of husband of [mary_josephine_hannon_fitzgerald]	boston_massachusetts
+the location of husband of [mary_josephine_hannon_fitzgerald]	boston_massachusetts
+what is the religion of [mary_josephine_hannon_fitzgerald] wife	catholicism
+[mary_josephine_hannon_fitzgerald] wife religion	catholicism
+what religion does [mary_josephine_hannon_fitzgerald] wife have	catholicism
+what is the organization of [taufaahau_tupou_iv] parent	new_zealand
+the organization of parent of [taufaahau_tupou_iv]	new_zealand
+which organization does [taufaahau_tupou_iv] parent work for	new_zealand
+the sex of [john_of_gaunt_1st_duke_of_lancaster] husband	female
+the sex of husband of [john_of_gaunt_1st_duke_of_lancaster]	female
+what is the [edwin_samuel_montagu] darling nation	united_kingdom
+[edwin_samuel_montagu] darling nation	united_kingdom
+where does [henry_of_scotland_3rd_earl_of_huntingdon] offspring come from	kingdom_of_scotland
+what is the nation of [henry_of_scotland_3rd_earl_of_huntingdon] offspring	kingdom_of_scotland
+what is the [henry_of_scotland_3rd_earl_of_huntingdon] offspring nation	kingdom_of_scotland
+what is the address of [frederick_william_i_of_prussia] son	berlin
+please tell me [frederick_william_i_of_prussia] son present address	berlin
+the address of [frederick_william_i_of_prussia] son	berlin
+what is the nationality of [frederick_william_i_of_prussia] son	germany
+what is the [gustaf_vi_adolf_of_sweden] heir nationality	sweden
+which nationality is [gustaf_vi_adolf_of_sweden] heir	sweden
+what is the sex of son of [maximilian_i_of_bavaria]	male
+is [maximilian_i_of_bavaria] son a man or a woman	male
+the gender of [kira_kirillovna_of_russia] couple	male
+what is the [kira_kirillovna_of_russia] couple gender	male
+is [kira_kirillovna_of_russia] couple a man or a woman	male
+what is the gender of child of [grand_duke_michael_mihailovich_of_russia]	female
+what is the [grand_duke_michael_mihailovich_of_russia] child gender	female
+what is the nationality of child of [grand_duke_michael_mihailovich_of_russia]	united_kingdom
+the nationality of child of [grand_duke_michael_mihailovich_of_russia]	united_kingdom
+[thomas_lamb_eliot] father institution	harvard_divinity_school
+the institution of father of [thomas_lamb_eliot]	harvard_divinity_school
+where does [thomas_lamb_eliot] father work	harvard_divinity_school
+the gender of [thomas_lamb_eliot] mom	male
+what is the [thomas_lamb_eliot] mom gender	male
+who is the other half of [isabella_of_france] father	joan_i_of_navarre
+what did [isabella_of_france] dad die from	animal_attack
+what is the cause_of_death of [isabella_of_france] dad	animal_attack
+how [isabella_of_france] dad died	animal_attack
+where does [juliette_peirce] darling work for	harvard_university
+what is the institution of [juliette_peirce] darling	harvard_university
+what is the [mary_stuart_countess_of_bute] couple educational institution	eton_college
+what is the sex of spouse of [mary_stuart_countess_of_bute]	male
+[mary_stuart_countess_of_bute] spouse sex	male
+what is the sex of [mary_stuart_countess_of_bute] spouse	male
+what is the nation of [mary_stuart_countess_of_bute] husband	scotland
+what is the sex of dad of [elena_of_montenegro]	male
+the sex of dad of [elena_of_montenegro]	male
+what is the sex of [elena_of_montenegro] dad	male
+what is the [lady_may_abel_smith] mom parents	princess_helena_duchess_of_albany
+[lady_may_abel_smith] mom parents	princess_helena_duchess_of_albany
+the profession of kid of [sigurd_ibsen]	screenwriter
+[sigurd_ibsen] kid profession	screenwriter
+the profession of [sigurd_ibsen] kid	screenwriter
+what is the [sigurd_ibsen] child job	film_director
+what is the job of [sigurd_ibsen] child	film_director
+what line of business is [sigurd_ibsen] child in	film_director
+the nation of [frank_reicher] dad	germany
+[frank_reicher] dad nation	germany
+what is the job of [james_henry_hackett] kid	actor
+what is the nation of [robert_anderson_1917] wife	united_states
+where does [robert_anderson_1917] wife come from	united_states
+the nation of [robert_anderson_1917] wife	united_states
+what gender is [andronikos_iii_palaiologos] darling	female
+what is the educational institution of [benjamin_peirce] child	harvard_university
+where does [benjamin_peirce] child work	harvard_university
+[arleen_whelan] other half wife	arleen_whelan
+the wife of other half of [arleen_whelan]	arleen_whelan
+the sex of [penelope_blount_countess_of_devonshire] parent	male
+[penelope_blount_countess_of_devonshire] parent sex	male
+what is the cause_of_death of mom of [penelope_blount_countess_of_devonshire]	dysentery
+what killed the [penelope_blount_countess_of_devonshire] mom	dysentery
+the gender of child of [barbu_stirbey]	male
+the gender of [barbu_stirbey] child	male
+where does [edward_of_norwich_2nd_duke_of_york] parent come from	kingdom_of_england
+the nation of [edward_of_norwich_2nd_duke_of_york] parent	kingdom_of_england
+what made the [phillip_terry] spousedead	pancreatic_cancer
+how [phillip_terry] spouse died	pancreatic_cancer
+the cause_of_death of spouse of [phillip_terry]	pancreatic_cancer
+what is the gender of couple of [phillip_terry]	female
+[phillip_terry] couple gender	female
+what is the nation of husband of [phillip_terry]	france
+what is the nation of [phillip_terry] husband	france
+what is the organization of [lady_louisa_stuart] father	eton_college
+what is the organization of father of [lady_louisa_stuart]	eton_college
+what is the gender of [lady_louisa_stuart] parents	male
+what is the [lady_louisa_stuart] parents gender	male
+[lady_louisa_stuart] parents nation	scotland
+what is the sex of daughter of [william_of_winchester_lord_of_lunenburg]	male
+the sex of [william_of_winchester_lord_of_lunenburg] daughter	male
+what is the [william_of_winchester_lord_of_lunenburg] daughter sex	male
+what is the name of the husband of [marie_of_edinburgh] son	archduke_anton_prince_of_tuscany
+what is the husband of [marie_of_edinburgh] son	archduke_anton_prince_of_tuscany
+[marie_of_edinburgh] kid gender	male
+what gender is [marie_of_edinburgh] kid	male

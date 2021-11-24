@@ -9,13 +9,56 @@ Overview of the Approach Used
 ```
 Python 3.7, PyTorch 1.6
 ```
-## Instructions to run code 
+
+### Set data file paths and folder 
+
+1. 
+
+For ```main_train_vocab.py```, provide the following paths in line 124-128.
 
 ```
-1. pip install -r requirements.txt
-2. To train on MetaQA:
-3. To train on PathQuestions:
-4. Testing the code:
+datasetName = "MetaQA"			#dataset folder name
+data_path = "./Data/MetaQA/1-hop/vanilla/qa_train.txt"			# training QA pairs path
+valid_data_path = "./Data/MetaQA/1-hop/vanilla/qa_dev.txt"		# validation QA pairs path
+kbPath ="./Data/MetaQA/kb.txt"									# KG path
+```
+
+For ```main_train_roberta.py```, provide the following paths in line 166-170.
+
+```
+datasetName = "MetaQA"			#dataset folder name
+data_path = "./Data/MetaQA/1-hop/vanilla/qa_train.txt"			# training QA pairs path
+valid_data_path = "./Data/MetaQA/1-hop/vanilla/qa_dev.txt"		# validation QA pairs path
+kbPath ="./Data/MetaQA/kb.txt"									# KG path
+```
+
+2. 
+
+For ```main_test_vocab.py```, provide the following paths in line 129-132.
+
+```
+datasetName = "MetaQA"			#dataset folder name
+data_path = "./Data/MetaQA/1-hop/vanilla/qa_train.txt"			# training QA pairs path (Used just to calculate vocab size)
+test_data_path = "./Data/MetaQA/1-hop/vanilla/qa_test.txt"		# test QA pairs path
+```
+
+For ```main_test_roberta.py```, provide the following paths in line 131-133.
+
+```
+datasetName = "MetaQA"			#dataset folder name
+test_data_path = "./Data/PQ-2/test_q.txt" 						# test QA pairs path
+```
+
+3. The ```Models``` folder should be available before running the code.  
+
+
+## Instructions to run code 
+```
+1. pip install -r requirements.txt 
+2. To train model using LSTM + RoBERTa: python main_train_roberta.py 
+3. To train model using only LSTM: python main_train_vocab.py 
+4. To test the model using LSTM + RoBERTa: python main_test_roberta.py
+5. To test the model using only LSTM: python main_test_vocab.py
 ```
 
 ## References
