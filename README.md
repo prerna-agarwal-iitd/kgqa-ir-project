@@ -10,7 +10,7 @@ Overview of the Approach Used
 Python 3.7, PyTorch 1.6
 ```
 
-### Set data file paths and folder 
+## Set data file paths and folder 
 
 1. For ```main_train_vocab.py```, provide the following paths in line 124-128.
 
