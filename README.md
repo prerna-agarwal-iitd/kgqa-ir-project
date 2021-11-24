@@ -1,6 +1,4 @@
-Codebase for [COL 764 Project] on
-
-## Knowledge-based Question Answering using Link Prediction technique
+## [COL 764 Project] Knowledge-based Question Answering using Link Prediction technique
 
 Overview of the Approach Used
 
